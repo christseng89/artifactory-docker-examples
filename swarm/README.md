@@ -19,3 +19,4 @@ $ sudo ../docker-compose/prepareHostEnv.sh -t pro -c
 $ sudo docker swarm init
 $ docker stack deploy -c artifactory-pro.yml artifactory
 ```
+Test
